@@ -2,3 +2,5 @@ As i have uploaded both the file with same test repo and it is uploaded successf
 
 it is working in the same file i am going to make it private and see if the repository is pushed or reflect error 
 yeah it says repository creation failed now lets test make it public again and see if it will push or reflect error 
+it has minor error and now i think i solved it. it is perfectly working on public lets see what it will say on private
+in private it says not found now in public lets see what happen
