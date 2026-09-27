@@ -1,0 +1,2 @@
+# New-Reposatory
+As i have uploaded both the file with same test repo and it is uploaded successfully now lets test by creating a new reposatory and upload it or push it to my github and see if this is working or not
